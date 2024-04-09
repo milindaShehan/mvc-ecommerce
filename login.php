@@ -11,7 +11,7 @@
         <div class="row">
           <div class="input-field col s4 offset-s4">
           <i class="material-icons prefix white-text">account_circle</i>
-            <label class="white-text" for="username">Username or Email</label>
+            <label class="white-text" for="username">Username or Email (Required)</label>
             <input type="text" name="username" id="username" class="white-text">
           </div>
         </div>
